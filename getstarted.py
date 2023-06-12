@@ -1,0 +1,2 @@
+import webbrowser
+webbrowser.open('https://renesasgroup.sharepoint.com/sites/TechnicalSupportSWSystemNL/Shared%20Documents/General/documents/Getting_Started_HTML_Development_Flow/introduction.aspx')  # Go to getting started doc

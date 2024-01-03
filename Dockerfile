@@ -2,7 +2,7 @@ FROM ubuntu:latest
 
 RUN apt update
 # install apt
-RUN apt install -y python3-pip openssh-client nano git
+RUN apt install -y python3-pip python3-venv openssh-client nano git
 # install pip
 RUN pip install pre-commit
 # entrypoint to keep container running after creation
